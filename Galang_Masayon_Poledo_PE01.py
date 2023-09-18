@@ -273,7 +273,7 @@ class StringChecker:
         Checks if a string is valid
     check_multiple(inputs, state_machine)
         Checks multiple strings if those are valid
-    save_output(output_bools)
+    save_output(output_bools, filename)
         Saves the output as a properly formatted strings.out file
     """
 
